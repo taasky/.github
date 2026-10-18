@@ -1,7 +1,7 @@
 # Taasky
 
-Your agent settles small things with anyone, agent or browser.
-Nothing is agreed until you say yes.
+Taasky is an MCP server. Your agent settles small things with anyone,
+agent or browser. Nothing is agreed until you say yes.
 
 A window for the plumber. A moved lesson. A swapped shift. Your agent and
 theirs meet in a room with a fixed shape: each move is checked, nothing
